@@ -12,7 +12,7 @@
     <h3>𝒟𝑒𝓉𝒶𝒾𝓁𝓈</h3>
     <p>
       • 𝒞𝓁𝒶𝓈𝓈 → Cybersecurity & Backend<br>
-      • 𝒪𝓇𝒾𝑔𝒾𝓃 → Peru 🇵🇪<br><br>
+      • 𝒪𝓇𝒾𝑔𝒾𝓃 → <br><br>
       <!-- Contador de visitas -->
       <img src="https://komarev.com/ghpvc/?username=MATZUMOTO999&color=blueviolet&style=flat-square" alt="Profile Views" />
     </p>
@@ -36,7 +36,15 @@
 
 <p align="center">
   <!-- Gráfica de línea de contribuciones -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MATZUMOTO999&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <p align="center">
+  <!-- GIF optimizado para perfil de GitHub -->
+  <img 
+    src="https://media.tenor.com/tYt69V_Y36kAAAAi/girl-gif.gif" 
+    alt="Cybersecurity Student Animation" 
+    width="300" 
+    style="border-radius: 50%; border: 2px solid #7c3aed;" 
+  />
+</p>
 </p>
 
 <p align="center">
