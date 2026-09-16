@@ -4,7 +4,7 @@
   <i> Cybersecurity & Programming Student </i>
 </p>
 
-<!-- TEXTO ANIMADO (TYPEWRITER) -->
+<!-- TEXTO ANIMADO (TYPEWRITER) - REPARADO -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00ff41&background=00000000&center=true&vCenter=true&width=435&lines=Backend+Developer;Cybersecurity+Student;Java+%26+Python+Coder;Kali+Linux+User" alt="Typing SVG" />
 </p>
@@ -15,17 +15,17 @@
 
   <!-- SECCIÓN IZQUIERDA: DETALLES Y TEXTO -->
   <div style="flex: 1; min-width: 300px; text-align: left; padding-top: 20px;">
-    <h3>𝑒𝒶𝓁</h3>
+    <h3>𝒟𝑒𝒶𝒾𝓁</h3>
     <p>
       • 𝒞𝓁𝓈 → Cybersecurity & Backend<br>
-      • 𝒪𝒾𝓃 → Peru 🇪<br><br>
+      • 𝒪𝒾𝓃 → Peru 🇵🇪<br><br>
       
       <!-- Contador de visitas -->
       <img src="https://komarev.com/ghpvc/?username=MATZUMOTO999&color=blueviolet&style=flat-square" alt="Profile Views" />
     </p>
   </div>
 
-  <!-- SECCIÓN DERECHA: IMÁGENES -->
+  <!-- SECCIÓN DERECHA: IMÁGENES ANIMADAS (GIF + CRUZ) -->
   <div style="flex: 1; min-width: 300px; display: flex; justify-content: center; align-items: center; gap: 20px;">
     
     <!-- GIF CYBERPUNK -->
@@ -33,24 +33,28 @@
       src="https://i.pinimg.com/originals/de/e7/85/dee7851208617e0febcb569fd10ded72.gif" 
       alt="Cyberpunk Hacker" 
       width="200" 
-      style="border-radius: 10px; border: 2px solid #00ff41;" 
+      style="
+        border-radius: 10px; 
+        border: 2px solid #00ff41; 
+        box-shadow: 0 0 15px rgba(0, 255, 65, 0.5);
+        animation: float 3s ease-in-out infinite;
+      " 
     />
 
-    <!-- IMAGEN CRUZ/ESTÉTICA -->
+    <!-- NUEVA IMAGEN (CRUZ/ESTÉTICA) -->
     <img 
       src="https://i.pinimg.com/736x/08/70/79/087079a9e58625bd1ad9bb6354cdbc79.jpg" 
       alt="Dark Aesthetic Cross" 
       width="180" 
-      style="border-radius: 10px; border: 2px solid #7c3aed;" 
+      style="
+        border-radius: 10px; 
+        border: 2px solid #7c3aed; 
+        box-shadow: 0 0 15px rgba(124, 58, 237, 0.5);
+        animation: float 3.5s ease-in-out infinite;
+      " 
     />
 
   </div>
-
-</div>
-
----
-
-## 𝒮𝒶𝓉𝓉𝒾𝒸𝓈
 
 </div>
 
@@ -65,7 +69,7 @@
 
 ---
 
-## 𝒮𝒶𝓉𝓈𝓉𝒾𝒸𝓈
+## 𝒮𝓉𝓈𝓉𝒾𝒸𝓈
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MATZUMOTO999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
@@ -78,7 +82,7 @@
 
 ---
 
-## 𝒯𝒸𝒽𝓃𝓁𝑜𝑔𝑒𝓈 & 𝑜𝑜𝓁𝓈
+## 𝒯𝒸𝒽𝓃𝓁𝑜𝑒𝓈 & 𝑜𝑜𝓁𝓈
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
