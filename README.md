@@ -17,9 +17,7 @@
   </div>
 
   <div style="flex: 1;">
-    <!-- AQUÍ VA LA IMAGEN CON MOVIMIENTO -->
-    <img src="[TU_URL_DEL_GIF_O_VIDEO_AQUI.gif](https://www.pinterest.com/pin/71494712831741797/)" alt="Animación de perfil" width="300" style="border-radius: 50%;" />
-    <img src="[TU_URL_DEL_GIF_O_VIDEO_AQUI.gif](https://www.pinterest.com/pin/71494712831741797/)" alt="Animación de perfil" width="300" style="border-radius: 50%;" />
+    <img src="https://i.pinimg.com/originals/43/45/b0/4345b08493cf352bbd923062837bc559.gif" alt="Animación de perfil" width="280" />
   </div>
 
 </div>
