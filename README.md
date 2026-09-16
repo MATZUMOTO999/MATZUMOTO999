@@ -1,58 +1,75 @@
-# 𝓐_ 𝓟𝓻𝓯𝓲𝓵
+# _ 𝓟𝓻𝓯𝓲𝓵𝓮
 
 <p align="center">
   <i> Cybersecurity & Programming Student </i>
 </p>
 
+<!-- TEXTO ANIMADO (TYPEWRITER) - REPARADO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00ff41&background=00000000&center=true&vCenter=true&width=435&lines=Backend+Developer;Cybersecurity+Student;Java+%26+Python+Coder;Kali+Linux+User" alt="Typing SVG" />
+</p>
+
 ---
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
 
-  <!-- SECCIÓN DE TEXTO Y DETALLES -->
-  <div style="flex: 1; min-width: 300px; text-align: left; padding: 20px;">
-    <h3>𝒟𝑒𝓉𝒶𝒾𝓈</h3>
+  <!-- SECCIÓN IZQUIERDA: DETALLES Y TEXTO -->
+  <div style="flex: 1; min-width: 300px; text-align: left; padding-top: 20px;">
+    <h3>𝒟𝑒𝒶𝒾𝓁</h3>
     <p>
       • 𝒞𝓁𝓈𝓈 → Cybersecurity & Backend<br>
-      • 𝒪𝓇𝒾𝑔𝒾 → Peru 🇵🇪<br><br>
-      
-      <!-- Badge animado de "Typewriter" -->
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00ff41&center=true&vCenter=true&width=435&lines=Cybersecurity+Student;Backend+Developer;Kali+Linux+User;Coding+in+Java+%26+Python" alt="Typing SVG" />
-      <br>
+      • 𝒪𝒾𝑔𝓃 → Peru 🇵<br><br>
       
       <!-- Contador de visitas -->
       <img src="https://komarev.com/ghpvc/?username=MATZUMOTO999&color=blueviolet&style=flat-square" alt="Profile Views" />
     </p>
   </div>
 
-  <!-- SECCIÓN DE IMAGEN ANIMADA (NUEVO GIF CYBERPUNK) -->
-  <div style="flex: 1; min-width: 280px; display: flex; justify-content: center;">
+  <!-- SECCIÓN DERECHA: IMÁGENES ANIMADAS (GIF + CRUZ) -->
+  <div style="flex: 1; min-width: 300px; display: flex; justify-content: center; align-items: center; gap: 20px;">
+    
+    <!-- GIF CYBERPUNK -->
     <img 
       src="https://i.pinimg.com/originals/de/e7/85/dee7851208617e0febcb569fd10ded72.gif" 
-      alt="Cyberpunk Hacker Animation" 
-      width="320" 
+      alt="Cyberpunk Hacker" 
+      width="200" 
       style="
-        border-radius: 15px; 
+        border-radius: 10px; 
         border: 2px solid #00ff41; 
-        box-shadow: 0 0 25px rgba(0, 255, 65, 0.4);
+        box-shadow: 0 0 15px rgba(0, 255, 65, 0.5);
         animation: float 3s ease-in-out infinite;
       " 
     />
+
+    <!-- NUEVA IMAGEN (CRUZ/ESTÉTICA) -->
+    <img 
+      src="https://i.pinimg.com/736x/08/70/79/087079a9e58625bd1ad9bb6354cdbc79.jpg" 
+      alt="Dark Aesthetic Cross" 
+      width="180" 
+      style="
+        border-radius: 10px; 
+        border: 2px solid #7c3aed; 
+        box-shadow: 0 0 15px rgba(124, 58, 237, 0.5);
+        animation: float 3.5s ease-in-out infinite;
+      " 
+    />
+
   </div>
 
 </div>
 
-<!-- Animación CSS para el efecto flotante -->
+<!-- ANIMACIÓN CSS PARA EL EFECTO FLOTANTE -->
 <style>
   @keyframes float {
     0% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
+    50% { transform: translateY(-12px); }
     100% { transform: translateY(0px); }
   }
 </style>
 
 ---
 
-## 𝒮𝒶𝓉𝒾𝓉𝒾𝒸
+## 𝒮𝒶𝓉𝓈𝓉𝒾𝒸𝓈
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MATZUMOTO999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
@@ -65,7 +82,7 @@
 
 ---
 
-## 𝒯𝑒𝒽𝓃𝑜𝑜𝑔𝒾𝓈 & 𝒯𝑜𝑜𝓁𝓈
+## 𝒯𝒸𝒽𝓃𝓁𝑜𝑔𝑒𝓈 & 𝑜𝑜𝓁𝓈
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
