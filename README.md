@@ -1,4 +1,4 @@
-
+# 🚀 Bienvenido a mi perfil
 
 <p align="center">
   <b>Backend Developer / Cybersecurity</b>
@@ -18,14 +18,15 @@
 
   <div style="flex: 1;">
     <!-- AQUÍ VA LA IMAGEN CON MOVIMIENTO -->
-    <img src="TU_URL_DEL_GIF_O_VIDEO_AQUI.gif" alt="Animación de perfil" width="300" style="border-radius: 50%;" />
+    <img src="[TU_URL_DEL_GIF_O_VIDEO_AQUI.gif](https://www.pinterest.com/pin/71494712831741797/)" alt="Animación de perfil" width="300" style="border-radius: 50%;" />
+    <img src="[TU_URL_DEL_GIF_O_VIDEO_AQUI.gif](https://www.pinterest.com/pin/71494712831741797/)" alt="Animación de perfil" width="300" style="border-radius: 50%;" />
   </div>
 
 </div>
 
 ---
 
-
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MATZUMOTO999&show_icons=true&theme=tokyonight" />
