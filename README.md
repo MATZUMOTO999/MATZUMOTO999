@@ -86,7 +86,121 @@
 
 <div align="center">
 
+<svg width="900" height="400" viewBox="0 0 900 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="400" fill="#0d1117"/>
 
+  <text x="450" y="45"
+        text-anchor="middle"
+        fill="#ffffff"
+        font-size="22"
+        font-family="Arial"
+        font-weight="bold">
+    saul's Contribution Graph
+  </text>
+
+  <!-- Eje Y -->
+  <line x1="70" y1="70" x2="70" y2="320"
+        stroke="#8b949e"/>
+
+  <!-- Eje X -->
+  <line x1="70" y1="320" x2="850" y2="320"
+        stroke="#8b949e"/>
+
+  <!-- Valores del eje Y -->
+  <text x="55" y="325" fill="#8b949e"
+        font-size="12" text-anchor="end">0</text>
+
+  <text x="55" y="290" fill="#8b949e"
+        font-size="12" text-anchor="end">2</text>
+
+  <text x="55" y="255" fill="#8b949e"
+        font-size="12" text-anchor="end">4</text>
+
+  <text x="55" y="220" fill="#8b949e"
+        font-size="12" text-anchor="end">6</text>
+
+  <text x="55" y="185" fill="#8b949e"
+        font-size="12" text-anchor="end">8</text>
+
+  <text x="55" y="150" fill="#8b949e"
+        font-size="12" text-anchor="end">10</text>
+
+  <text x="55" y="115" fill="#8b949e"
+        font-size="12" text-anchor="end">12</text>
+
+  <text x="55" y="80" fill="#8b949e"
+        font-size="12" text-anchor="end">14</text>
+
+  <!-- Línea de contribuciones -->
+  <polyline
+    fill="none"
+    stroke="#ffffff"
+    stroke-width="3"
+    points="
+      70,320
+      90,320
+      110,320
+      130,320
+      150,320
+      170,320
+      190,320
+      210,320
+      230,320
+      250,320
+      270,320
+      290,320
+      310,320
+      330,320
+      350,320
+      370,320
+      390,320
+      410,320
+      430,320
+      450,320
+      470,320
+      490,320
+      510,320
+      530,320
+      550,320
+      570,320
+      590,320
+      610,320
+      630,320
+      650,320
+      670,320
+      690,320
+      710,320
+      730,320
+      750,320
+      770,320
+      790,320
+      810,320
+      830,95
+      850,302
+    "
+  />
+
+  <!-- Punto máximo -->
+  <circle cx="830" cy="95" r="5" fill="#ffffff"/>
+
+  <!-- Etiquetas -->
+  <text x="460" y="370"
+        fill="#8b949e"
+        font-size="14"
+        text-anchor="middle"
+        font-family="Arial">
+    Day
+  </text>
+
+  <text x="20" y="200"
+        fill="#8b949e"
+        font-size="14"
+        text-anchor="middle"
+        transform="rotate(-90 20 200)"
+        font-family="Arial">
+    Contribution
+  </text>
+
+</svg>
 
 </div>
-
