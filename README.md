@@ -23,7 +23,7 @@
 
 <pre>
 ◈  Class     →  Backend / Full-Stack Apprentice
-◈  Origin    →  Tartaria 🇧🇷
+◈  Origin    →  Tartaria
 </pre>
 
 </div>
